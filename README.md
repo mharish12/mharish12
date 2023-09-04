@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mharish12](https://github.com/mharish12)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java**, **React**
 
 - 📫 How to reach me **harishmadineni1@gmail.com**
 
